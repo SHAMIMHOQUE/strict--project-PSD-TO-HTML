@@ -1,1 +1,1 @@
-# strict--project-PSD-TO-HTML
+# strictproject
